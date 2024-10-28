@@ -3,7 +3,7 @@ import json
 import os
 
 HOST = '0.0.0.0'
-PORT = 87
+PORT = <PORT> #ganti dengan port yang belum diigunakan , contoh : 4444
 
 server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 server.bind((HOST, PORT))
