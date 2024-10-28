@@ -1,0 +1,11 @@
+MIT License
+
+Copyright (c) [2024] [Lero]
+
+Peringatan: Penggunaan perangkat lunak ini hanya diperbolehkan untuk tujuan yang sah dan dengan izin eksplisit dari pemilik perangkat. Penulis tidak bertanggung jawab atas penggunaan perangkat lunak ini untuk aktivitas ilegal.
+
+Izin diberikan, secara gratis, kepada siapa pun yang mendapatkan salinan perangkat lunak ini dan file-file dokumentasi terkait (perangkat lunak "sebagaimana adanya"), untuk menggunakan perangkat lunak tanpa batasan, termasuk tetapi tidak terbatas pada hak untuk menggunakan, menyalin, memodifikasi, menggabungkan, menerbitkan, mendistribusikan, menjual, dan/atau memberikan salinan perangkat lunak kepada orang lain, dan untuk memperbolehkan orang lain yang menerima perangkat lunak ini untuk melakukan hal yang sama, dengan ketentuan sebagai berikut:
+
+1. Salinan dari pemberitahuan ini dan pemberitahuan hak cipta harus disertakan dalam semua salinan atau bagian substansial dari perangkat lunak ini.
+
+2. PERANGKAT LUNAK INI DIBERIKAN "SEBAGAIMANA ADANYA", TANPA JAMINAN APAPUN, BAIK SECARA TERSURAT MAUPUN TERSIRAT, TERMASUK NAMUN TIDAK TERBATAS PADA JAMINAN DAGANG, KECOCOKAN UNTUK TUJUAN TERTENTU, DAN TANPA PELANGGARAN HAK. DALAM HAL APAPUN, PENULIS ATAU PEMEGANG HAK CIPTA TIDAK BERTANGGUNG JAWAB ATAS SETIAP KLAIM, KERUSAKAN, ATAU KEWAJIBAN LAINNYA, BAIK DALAM TINDAKAN KONTRAK, KERUGIAN, ATAU SEBALIKNYA, YANG TIMBUL DARI, ATAU YANG BERKAITAN DENGAN, PERANGKAT LUNAK INI ATAU PENGGUNAAN ATAU PERDAGANGAN DALAM PERANGKAT LUNAK INI.
