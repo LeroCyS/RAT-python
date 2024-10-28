@@ -5,8 +5,8 @@ import ctypes
 import subprocess
 import time
 
-SERVER_IP = '192.168.0.175'  # Ganti dengan IP server Anda
-SERVER_PORT = 87
+SERVER_IP = '<IP-SERVER>'  # Ganti dengan IP server Anda
+SERVER_PORT = <PORT> #ganti dengan port server anda
 
 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
